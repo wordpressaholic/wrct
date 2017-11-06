@@ -2,7 +2,7 @@
 /*
  * Plugin Name: WooCommerce Responsive Course Tables
  * Plugin URI: http://woocommercecoursetables.com
- * Description: Makes it simple to display your WooCommerce catalog of courses in a beautiful responsive table (with variations).
+ * Description: Makes it simple to display your WooCommerce catalog of courses in beautiful responsive tables (with variation options).
  * Author: Kartik Gahlaut
  * Author URI: http://kartik.webfixfast.com
  * Version: 1.0.0
@@ -1614,7 +1614,7 @@ function wrct_add_to_cart(){
   if( wc_notice_count() ){
     ob_start();
     wc_print_notices();
-    $data['notice'] = ob_get_clean();  
+    $data['notice'] = ob_get_clean();
   }
 
 	wp_send_json( $data );
