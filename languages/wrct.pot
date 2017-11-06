@@ -1,0 +1,385 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WRCT\n"
+"POT-Creation-Date: 2017-09-16 18:16+0530\n"
+"PO-Revision-Date: 2017-09-16 16:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: WordPressaHolic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/index.php:3
+msgid "WooCommerce Course Tables"
+msgstr ""
+
+#: app/index.php:7
+msgid "Documentation"
+msgstr ""
+
+#: app/index.php:10
+msgid "Table name"
+msgstr ""
+
+#: app/index.php:13 wrct.php:905
+msgid "Shortcode"
+msgstr ""
+
+#: app/index.php:21
+msgid "Courses"
+msgstr ""
+
+#: app/index.php:25
+msgid "Columns"
+msgstr ""
+
+#: app/index.php:29
+msgid "Styling"
+msgstr ""
+
+#: app/index.php:33
+msgid "Buttons"
+msgstr ""
+
+#: app/index.php:40
+msgid "Select categories"
+msgstr ""
+
+#: app/index.php:73
+msgid "You do not have any WooCommerce categories setup!"
+msgstr ""
+
+#: app/index.php:82
+msgid "You must select at least one WooCommerce category to show in your tables."
+msgstr ""
+
+#: app/index.php:87
+msgid "Show maximum"
+msgstr ""
+
+#: app/index.php:89
+msgid "number of courses"
+msgstr ""
+
+#: app/index.php:99
+msgid "Based on your changed course selection the column information may need to be updated from the server."
+msgstr ""
+
+#: app/index.php:100
+msgid "Update Now?"
+msgstr ""
+
+#: app/index.php:105
+msgid "Updated from server. Please wait."
+msgstr ""
+
+#: app/index.php:111
+msgid "Sorry! Column information could not be fetched from the server."
+msgstr ""
+
+#: app/index.php:112
+msgid "Try again?"
+msgstr ""
+
+#: app/index.php:123
+msgid "Column name"
+msgstr ""
+
+#: app/index.php:127
+msgid "Hide column"
+msgstr ""
+
+#: app/index.php:129
+msgid "Hide"
+msgstr ""
+
+#: app/index.php:139
+msgid "Enter custom CSS here..."
+msgstr ""
+
+#: app/index.php:143
+msgid "Apply theme"
+msgstr ""
+
+#: app/index.php:147
+msgid "None"
+msgstr ""
+
+#: app/index.php:148
+msgid "Blank"
+msgstr ""
+
+#: app/index.php:149
+msgid "Orange"
+msgstr ""
+
+#: app/index.php:150
+msgid "Black"
+msgstr ""
+
+#: app/index.php:157
+msgid "Header background color"
+msgstr ""
+
+#: app/index.php:166
+msgid "Header background color responsive odd"
+msgstr ""
+
+#: app/index.php:175
+msgid "Header background color responsive even"
+msgstr ""
+
+#: app/index.php:184
+msgid "Header border bottom color"
+msgstr ""
+
+#: app/index.php:193
+msgid "Header border bottom width"
+msgstr ""
+
+#: app/index.php:202
+msgid "Header text color"
+msgstr ""
+
+#: app/index.php:211
+msgid "Header text color responsive"
+msgstr ""
+
+#: app/index.php:220
+msgid "Rows background color odd"
+msgstr ""
+
+#: app/index.php:229
+msgid "Rows background color even"
+msgstr ""
+
+#: app/index.php:238
+msgid "Rows background color responsive odd"
+msgstr ""
+
+#: app/index.php:247
+msgid "Rows background color responsive even"
+msgstr ""
+
+#: app/index.php:256
+msgid "Remove horizontal borders"
+msgstr ""
+
+#: app/index.php:265
+msgid "Remove vertical borders"
+msgstr ""
+
+#: app/index.php:274
+msgid "Remove table borders"
+msgstr ""
+
+#: app/index.php:283
+msgid "Border color"
+msgstr ""
+
+#: app/index.php:292
+msgid "Vertical align"
+msgstr ""
+
+#: app/index.php:296
+msgid "Top"
+msgstr ""
+
+#: app/index.php:297
+msgid "Middle"
+msgstr ""
+
+#: app/index.php:298
+msgid "Bottom"
+msgstr ""
+
+#: app/index.php:305
+msgid "Columns minimum width"
+msgstr ""
+
+#: app/index.php:314
+msgid "More info button background"
+msgstr ""
+
+#: app/index.php:323
+msgid "More info button text color"
+msgstr ""
+
+#: app/index.php:332
+msgid "Cart/Checkout button background"
+msgstr ""
+
+#: app/index.php:341
+msgid "Cart/Checkout button text color"
+msgstr ""
+
+#: app/index.php:350
+msgid "Responsive layout below"
+msgstr ""
+
+#: app/index.php:359
+msgid "Table minimum width"
+msgstr ""
+
+#: app/index.php:368
+msgid "Price color"
+msgstr ""
+
+#: app/index.php:377
+msgid "Price alternate text color"
+msgstr ""
+
+#: app/index.php:386
+msgid "Buttons alternate text color"
+msgstr ""
+
+#: app/index.php:400
+msgid "Button 1"
+msgstr ""
+
+#: app/index.php:403 app/index.php:443 app/index.php:483
+msgid "On"
+msgstr ""
+
+#: app/index.php:404 app/index.php:444 app/index.php:484
+msgid "Off"
+msgstr ""
+
+#: app/index.php:410
+msgid "Button 1 label"
+msgstr ""
+
+#: app/index.php:417
+msgid "Button 1 link"
+msgstr ""
+
+#: app/index.php:420 app/index.php:460 app/index.php:500
+msgid "WC product page"
+msgstr ""
+
+#: app/index.php:421 app/index.php:461 app/index.php:501
+msgid "Add to cart"
+msgstr ""
+
+#: app/index.php:422 app/index.php:462 app/index.php:502
+msgid "Add and go to cart"
+msgstr ""
+
+#: app/index.php:423 app/index.php:463 app/index.php:503
+msgid "Add and go to checkout"
+msgstr ""
+
+#: app/index.php:429
+msgid "Button 1 target"
+msgstr ""
+
+#: app/index.php:432 app/index.php:472 app/index.php:512
+msgid "Open link on same page"
+msgstr ""
+
+#: app/index.php:433 app/index.php:473 app/index.php:513
+msgid "Open link on new page"
+msgstr ""
+
+#: app/index.php:440
+msgid "Button 2"
+msgstr ""
+
+#: app/index.php:450
+msgid "Button 2 label"
+msgstr ""
+
+#: app/index.php:457
+msgid "Button 2 link"
+msgstr ""
+
+#: app/index.php:469
+msgid "Button 2 target"
+msgstr ""
+
+#: app/index.php:480
+msgid "Button 3"
+msgstr ""
+
+#: app/index.php:490
+msgid "Button 3 label"
+msgstr ""
+
+#: app/index.php:497
+msgid "Button 3 link"
+msgstr ""
+
+#: app/index.php:509
+msgid "Button 3 target"
+msgstr ""
+
+#: app/index.php:526
+msgid "Untitled table"
+msgstr ""
+
+#: app/index.php:529
+msgid "Save settings"
+msgstr ""
+
+#: app/index.php:537
+msgid "Found a bug? Got questions? Please reach me for support here: "
+msgstr ""
+
+#: app/index.php:541
+msgid "Happy with WRCT? It would be awesome if you left my plugin a 5 star rating"
+msgstr ""
+
+#: app/index.php:541
+msgid "here"
+msgstr ""
+
+#: app/index.php:541
+msgid "Thank you!"
+msgstr ""
+
+#: class-wrct-create-table.php:56
+msgid "-Clear All-"
+msgstr ""
+
+#: wrct.php:31
+msgid "WC Course Tbls"
+msgstr ""
+
+#: wrct.php:32
+msgid "WC Course Table"
+msgstr ""
+
+#: wrct.php:195
+msgid "WooCommerce Responsive Course Tables needs the WooCommerce plugin to be installed and activated on your site"
+msgstr ""
+
+#: wrct.php:268
+msgid "There is no WC Responsie Course Table saved with this id. Perhaps you did not hit the 'Save Settings' button at the bottom of the editor page?"
+msgstr ""
+
+#: wrct.php:497
+msgid "No search results found. %Clear search% and try again?"
+msgstr ""
+
+#: wrct.php:517
+msgid "No courses were found."
+msgstr ""
+
+#: wrct.php:698
+msgid "Search: "
+msgstr ""
+
+#: wrct.php:704
+msgid "Course name"
+msgstr ""
+
+#: wrct.php:710
+msgid "Clear search?"
+msgstr ""

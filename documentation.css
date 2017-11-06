@@ -1,0 +1,165 @@
+html {
+  background: #e8e6e6;
+}
+
+body {
+  max-width: 900px;
+  background: #ffffff;
+  padding: 20px 80px 40px 80px;
+  margin: 60px auto;
+  font-family: 'Raleway';
+  box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.18);
+}
+
+h1 {
+  font-size: 35px;
+  color: #cac8c8;
+}
+
+h1 span {
+  font-size: 60px;
+  display: block;
+  color: black;
+  margin: 5px 0  35px;
+  line-height: 1em;
+}
+
+p, li, span {
+  font-size: 16px;
+  line-height: 2em;
+}
+
+.heading {
+  font-size: 22px;
+  font-weight: bold;
+  display: block;
+  line-height: 2em;
+  margin-top: 30px;
+  border-bottom: 2px solid;
+  padding-bottom: 10px;
+}
+
+.subsection {
+  margin-left: 30px;
+}
+
+.subsection .heading {
+  font-size: 18px;
+  font-weight: 600;
+  display: inline-block;
+  border: none;
+  padding-bottom: 0;
+  margin-top: 15px;
+}
+
+
+.highlight {
+  background: rgba(255, 255, 0, 0.35);
+  padding: 5px 3px;
+}
+
+.index {
+  margin-top: 40px;
+}
+
+.index strong {
+  margin-bottom: 10px;
+}
+
+.index a{
+  display: block;
+  padding: 15px 10px;
+  font-size: 18px;
+  color: black;
+  text-decoration: none;
+}
+
+.index a:nth-child(odd){
+  background: #fbfbfb;
+}
+
+.index .heading + a {
+  margin-top: 10px;
+}
+
+.index a:before{
+  content: ' - ';
+}
+
+.index a i {
+  margin-left: 8px;
+  font-size: 1em;
+  transition: .2s;
+}
+
+.index a:hover i {
+  margin-left: 12px;
+}
+
+pre {
+  background: #f7f7f7;
+  padding: 15px;
+  font-size: 16px;
+  color: #5d5d5d;
+}
+
+table {
+  background: #fbfbfb;
+  padding: 0;
+  text-align: left;
+  border: 1px solid #ccc;
+  border-width: 1px 0 0 1px;
+  margin: 40px 0;
+}
+
+table th, table td{
+  min-width: 200px;
+  padding: 25px 50px;
+  border: 1px solid #ccc;
+  border-width:0 1px 1px 0;
+  line-height: 1.6em;
+}
+
+table span {
+  display: block;
+  margin-bottom: 10px;
+  color: black;
+}
+
+table td:last-child{
+  color: #a2a2a2;
+}
+
+ul {
+  padding-left: 5px;
+  margin: 0;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 0px 0 0 20px;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+ul li:last-child {
+  margin-bottom: 0;
+}
+
+ul li:before {
+  content: "-  ";
+  position: absolute;
+  left: -0;
+}
+
+/* ul li a:after{
+  content: "\f105";
+  font-family: fontawesome;
+  margin-left: 5px;
+  transition: .2s;
+}
+
+ul li a:hover:after{
+  margin-left: 10px;
+}
+ */

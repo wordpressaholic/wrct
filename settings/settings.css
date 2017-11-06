@@ -1,0 +1,108 @@
+body.wrct_page_wrct-settings {
+    background: white;
+    font-size: 14px;
+}
+
+.wrct-page-title {
+  font-weight: bold;
+  margin: 30px 40px 40px 0;
+  padding-left: 55px;
+  line-height: 45px;
+  display: inline-block;
+  color: #000;
+  font-size: 45px;
+  position: relative;
+}
+
+.wrct-page-title:before {
+  font-size: 50px;
+  position: absolute;
+  left: 0;
+}
+
+.notice.wrct-settings-notice {
+  margin: -5px 0 35px 0!important;
+  box-shadow: 0px 0px 10px 0 rgba(0, 0, 0, 0.27);
+  width: 870px;
+  padding: 5px 15px;
+}
+
+.wrct-settings-notice i {
+  color: #46b450;
+  margin: 0 8px 0 0px;
+}
+
+.wrct-settings-form {
+    margin-top: 20px;
+    width: 900px;
+}
+
+.wrct-settings-heading {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 1.5em;
+  padding: 0 0 0 15px;
+}
+
+a.wrct-settings-doc-link {
+  margin: 10px 0 25px 15px;
+  display:block;
+  color: #0073aa;
+  text-decoration: none;
+  font-size: 14px;
+  box-shadow: none;
+}
+
+a.wrct-settings-doc-link:after{
+  content: "\f105";
+  font-family: fontawesome;
+  margin-left: 5px;
+  transition: .2s;
+}
+
+a.wrct-settings-doc-link:hover:after{
+  margin-left: 10px;
+}
+
+.wrct-option-row {
+ padding: 15px;
+}
+
+.wrct-option-row:nth-child(odd) {
+  background: #fbfbfb;
+}
+
+.wrct-option-label,
+.wrct-option-value {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.wrct-option-label {
+    width: 380px;
+    font-size: 14px;
+    opacity: .75;
+}
+
+.wrct-option-row:hover .wrct-option-label {
+    opacity: 1;
+}
+
+.wrct-option-value {
+}
+
+.wrct-input-shortcode {
+  padding: 5px 10px;
+  height: 80px;
+  width: 400px;
+  line-height: 1.5em;
+}
+
+/* save button */
+.button-primary.wrct-save {
+  font-size: 17px;
+  padding: 14px 28px!important;
+  line-height: 1em!important;
+  height: auto!important;
+  margin-top: 50px;
+}
